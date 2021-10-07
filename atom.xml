@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daveli1221.github.io</id>
-    <title>Dave&apos;s Living Space</title>
-    <updated>2021-10-06T17:00:47.977Z</updated>
+    <title>Dave&apos;s Cottage</title>
+    <updated>2021-10-07T07:35:52.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://daveli1221.github.io"/>
     <link rel="self" href="https://daveli1221.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>&quot;Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.&quot; 
+-Richard Feynman</subtitle>
     <logo>https://daveli1221.github.io/images/avatar.png</logo>
     <icon>https://daveli1221.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Dave&apos;s Living Space</rights>
+    <rights>All rights reserved 2021, Dave&apos;s Cottage</rights>
     <entry>
-        <title type="html"><![CDATA[在NTU的前半个学期]]></title>
+        <title type="html"><![CDATA[在NTU的第一个学期]]></title>
         <id>https://daveli1221.github.io/post/zai-ntu-de-qian-ban-ge-xue-qi/</id>
         <link href="https://daveli1221.github.io/post/zai-ntu-de-qian-ban-ge-xue-qi/">
         </link>
