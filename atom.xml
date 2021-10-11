@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daveli1221.github.io</id>
     <title>Dave&apos;s Cottage</title>
-    <updated>2021-10-08T14:49:36.957Z</updated>
+    <updated>2021-10-11T16:22:05.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://daveli1221.github.io"/>
     <link rel="self" href="https://daveli1221.github.io/atom.xml"/>
@@ -11,17 +11,6 @@
     <logo>https://daveli1221.github.io/images/avatar.png</logo>
     <icon>https://daveli1221.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Dave&apos;s Cottage</rights>
-    <entry>
-        <title type="html"><![CDATA[创建这个博客的一些想法]]></title>
-        <id>https://daveli1221.github.io/post/chuang-jian-zhe-ge-bo-ke-de-yi-xie-xiang-fa/</id>
-        <link href="https://daveli1221.github.io/post/chuang-jian-zhe-ge-bo-ke-de-yi-xie-xiang-fa/">
-        </link>
-        <updated>2021-10-08T09:31:07.000Z</updated>
-        <content type="html"><![CDATA[<p>其实创办个人博客的想法由来已久了。</p>
-<p>大概是在疫情停课在家的时候吧，当时其实很希望自己能有一个平台来记录每天的生活和想法——像日记一样。那个时候最经常写东西的地方是qq空间，但qq空间的图文割裂的形式不太符合我的创作预期。所以我的脑海里第一个想起的东西就是博客。</p>
-<p>我还记得小学时期的文明小博客。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[【Weekly blog】重新回归网课生活 10.4-10.10]]></title>
         <id>https://daveli1221.github.io/post/zai-ntu-de-qian-ban-ge-xue-qi/</id>
@@ -32,7 +21,18 @@
 <blockquote>
 <p>摄于Tuas Link, 2021年10月3日</p>
 </blockquote>
-<p>Hello！希望网站能正常工作，并且能够坚持这个写blog的习惯吧😀</p>
+<p>先从这一张照片说起吧。<br>
+10.3是recess week的最后一天。其实一开始是没打算出门的，其一是因为在recess week的前一周我密切接触了确诊病例，保险起见我先自我隔离了一周。而隔离结束时，我的recess week已经过去了大半😔再加之recess week的周六又有数学期中考试…所以本来就放弃了出门的想法。</p>
+<blockquote>
+<p>考完数学期中考试在考场拍了一张照片</p>
+</blockquote>
+<p>想着考完试放松一下，所以当天晚上去见了同专业的几个同学，大家一起吃了饭聊了聊天，过程中就提到了Tuas Link那边的灯塔。我有听说过那个地方，据说是一个很适合拍日落的点，于是我也没多想，和几个同学商量了一下决定第二天下午就去那儿海边走走。</p>
+<figure data-type="image" tabindex="2"><img src="https://daveli1221.github.io/post-images/1633969023314.png" alt="" loading="lazy"></figure>
+<blockquote>
+<p>出发前做了一些准备<br>
+<img src="https://daveli1221.github.io/post-images/1633969274908.jpg" alt="" loading="lazy"><br>
+<img src="https://daveli1221.github.io/post-images/1633969280160.jpg" alt="" loading="lazy"></p>
+</blockquote>
 ]]></content>
     </entry>
 </feed>
