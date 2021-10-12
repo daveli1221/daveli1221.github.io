@@ -215,6 +215,26 @@
           
         <div class="comment">
           
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<div id="gitalk-container"></div>
+<script>
+  var gitalk = new Gitalk({
+    clientID: '5c4bdb3cc8093758e24c',
+    clientSecret: 'b56908f815098816178bc06951dd872d7bc35b74',
+    repo: 'daveli1221.github.io',
+    owner: 'daveli1221',
+    admin: ['daveli1221'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+  gitalk.render('gitalk-container')
+</script>
+
+          
+          
+        
         </div>
       </div>
     </div>
