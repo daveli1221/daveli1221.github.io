@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-       <meta http-equiv="content-type" content="text/html; charset=utf-8">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta content="yes" name="apple-mobile-web-app-capable" />
   <meta content="black" name="apple-mobile-web-app-status-bar-style" />
@@ -9,14 +9,14 @@
   <meta name="keywords" content="">
   <meta name="description" content="">
   <meta name="author" content="kveln">
-  <title>Life | Dave&#39;s Cottage</title>
+  <title>【Message Board】在这里留下你的想法 | Dave&#39;s Cottage</title>
   <link href="https://cdn.bootcss.com/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
   <!-- <link href="https://daveli1221.github.io/media/css/bootstrap.min.css" rel="stylesheet"> -->
   <!--  <link href="https://daveli1221.github.io/media/css/all.min.css" rel="stylesheet" type="text/css"> -->
   <link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.min.css" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-  <link rel="alternate" type="application/rss+xml" title="Life | Dave&#39;s Cottage » Feed" href="https://daveli1221.github.io/atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="【Message Board】在这里留下你的想法 | Dave&#39;s Cottage » Feed" href="https://daveli1221.github.io/atom.xml">
   <link rel="stylesheet"href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.15.10/build/styles/androidstudio.min.css">
   <link href="https://daveli1221.github.io/styles/main.css" rel="stylesheet">
   <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
@@ -25,6 +25,11 @@
   <script>hljs.initHighlightingOnLoad();</script>
   
 
+    <meta property="og:description" content="【Message Board】在这里留下你的想法"/>
+    <meta property="og:url" content="https://daveli1221.github.io/post/message-board-zai-zhe-li-liu-xia-ni-de-xiang-fa/"/>
+    <meta property="og:locale" content="zh-CN"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:site_name" content="Dave&#39;s Cottage"/>
   </head>
   <body>
   	<!-- Navigation -->
@@ -66,49 +71,70 @@
       </div>
     </div>
   </nav>
-<!-- Page Header -->
+  <!-- Page Header -->
   <header class="masthead" style="background-image: url('https://daveli1221.github.io/media/images/home-bg.jpg')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="post-heading">
-            <h1 class="tag-tl">#Life</h1>
+          	<span class="tags">
+          	 
+        </span>
+            <h1>【Message Board】在这里留下你的想法</h1>
+            <span class="meta">
+            	Posted on
+              2021-10-12，1 min read
+            </span>
           </div>
         </div>
       </div>
     </div>
   </header>
+
+  <!-- Post Content -->
+  <article>
     <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
-       
-        <div class="post-preview">
-          <a href="https://daveli1221.github.io/post/zai-ntu-de-qian-ban-ge-xue-qi/">
-            <h2 class="post-title">
-              【Weekly Blog】重新回归网课生活 10.4-10.10
-            </h2>
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <p>在这篇文章下给我留言吧🤔</p>
+<p>目前还没有专门开发的留言墙…希望Gridea未来能加入这个功能。</p>
+
+          
+          <p class="next-post">下一篇：
+            <a href="https://daveli1221.github.io/post/zai-ntu-de-qian-ban-ge-xue-qi/">
+              <span class="post-title">
+                【Weekly Blog】重新回归网课生活 10.4-10.10&rarr;
+              </span>
             </a>
-            <h3 class="post-subtitle">
-              
-            </h3>
-          <p class="post-meta">
-             <span class="time">2021-10-07</span>
-             <span>,</span>
-             <span class="post-stats">6 min read</span>
-            </p>
+          </p>
+        
+        <div class="comment">
+          
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<div id="gitalk-container"></div>
+<script>
+  var gitalk = new Gitalk({
+    clientID: '5c4bdb3cc8093758e24c',
+    clientSecret: 'b56908f815098816178bc06951dd872d7bc35b74',
+    repo: 'daveli1221.github.io',
+    owner: 'daveli1221',
+    admin: ['daveli1221'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+  gitalk.render('gitalk-container')
+</script>
+
+          
+          
+        
         </div>
-        <hr>
-        <div class="clearfix">
-        </div>
-        
-        
-        
       </div>
     </div>
-  </div>
-
-  
+  </article>
  <!-- Footer -->
   <footer>
     <div class="container">
@@ -180,3 +206,4 @@
   })(this));</script>
   </body>
 </html>
+
